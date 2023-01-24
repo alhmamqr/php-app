@@ -7,6 +7,15 @@ Add Login and Logout page, Add posting and commenting on posts by the user. </p>
 
 <p> with dashboard page for admin and home page for user </p>
 
+
+<p>Guest user can browse and view posts and comments</p>
+<p>Registered user can create posts and comment with their own name</p>
+<p>He can edit his profiles</p>
+<p>to the admin</p>
+<p>There is a control panel that can control the posts to display and hide</p>
+<p>and accept comments</p>
+<p>And watch the statistics</p>
+
 admin dashboard
 ![admin dash board](https://user-images.githubusercontent.com/64865917/213861236-a49d2bb1-dd26-41dd-92e8-8873f1d753d4.PNG)
 
